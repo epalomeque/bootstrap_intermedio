@@ -69,11 +69,15 @@
   <?php print $scripts; ?>
 </head>
 <body<?php print $body_attributes; ?>>
+  <p>Prueba de que yo estoy aqui 1 :: MLK</p>
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable"><?php print t('Skip to main content'); ?></a>
   </div>
   <?php print $page_top; ?>
+  <p>Prueba de que yo estoy aqui 2 :: MLK</p>
   <?php print $page; ?>
+  <p>Prueba de que yo estoy aqui 3 :: MLK</p>
   <?php print $page_bottom; ?>
+  <p>Prueba de que yo estoy aqui 4 :: MLK</p>
 </body>
 </html>

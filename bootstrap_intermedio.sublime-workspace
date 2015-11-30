@@ -7,6 +7,47 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/page.tpl.php",
+			"settings":
+			{
+				"buffer_size": 6898,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/page.vars.php",
+			"settings":
+			{
+				"buffer_size": 2511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/html.vars.php",
+			"settings":
+			{
+				"buffer_size": 2069,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/html.tpl.php",
+			"settings":
+			{
+				"buffer_size": 3456,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "maqueta/index.html",
+			"settings":
+			{
+				"buffer_size": 1179,
+				"line_ending": "Unix",
+				"name": "index.html"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -36,7 +77,11 @@
 	},
 	"file_history":
 	[
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/html.tpl.php",
 		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap_intermedio/templates/html.tpl.php",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap_intermedio/.git/config",
+		"/home/emmanuel/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap_intermedio/templates/system/html.tpl.php",
 		"/home/emmanuel/Documentos/01-En_proceso/bootstrap/docs/FAQ.md",
 		"/home/emmanuel/Documentos/01-En_proceso/bootstrap/docs/Getting-Started.md",
 		"/home/emmanuel/Documentos/01-En_proceso/bootstrap/docs/README.md"
@@ -74,8 +119,148 @@
 	"groups":
 	[
 		{
+			"selected": 4,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/page.tpl.php",
+					"settings":
+					{
+						"buffer_size": 6898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/page.vars.php",
+					"settings":
+					{
+						"buffer_size": 2511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/html.vars.php",
+					"settings":
+					{
+						"buffer_size": 2069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2069,
+								2069
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 275.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/html.tpl.php",
+					"settings":
+					{
+						"buffer_size": 3456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3206,
+								3206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 733.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "maqueta/index.html",
+					"settings":
+					{
+						"buffer_size": 1179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								842,
+								842
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -85,7 +270,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{
@@ -110,6 +295,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.git":
+	{
+		"height": 112.0
+	},
 	"replace":
 	{
 		"height": 0.0

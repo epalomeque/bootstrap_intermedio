@@ -8,44 +8,11 @@
 	"buffers":
 	[
 		{
-			"file": "/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/page.tpl.php",
+			"file": "templates/page.tpl.php",
 			"settings":
 			{
 				"buffer_size": 6898,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/page.vars.php",
-			"settings":
-			{
-				"buffer_size": 2511,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/html.vars.php",
-			"settings":
-			{
-				"buffer_size": 2069,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "templates/html.tpl.php",
-			"settings":
-			{
-				"buffer_size": 3456,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "maqueta/index.html",
-			"settings":
-			{
-				"buffer_size": 1179,
-				"line_ending": "Unix",
-				"name": "index.html"
 			}
 		}
 	],
@@ -77,8 +44,17 @@
 	},
 	"file_history":
 	[
-		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/html.tpl.php",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/page.vars.php",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/includes/common.inc",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/template.php",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/region.vars.php",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/html.vars.php",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap_intermedio/maqueta/css/estilos.css",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap_intermedio/maqueta/index.html",
+		"/home/emmanuel/.config/sublime-text-2/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/page.tpl.php",
 		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap_intermedio/templates/html.tpl.php",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/html.tpl.php",
 		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap_intermedio/.git/config",
 		"/home/emmanuel/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
 		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap_intermedio/templates/system/html.tpl.php",
@@ -102,29 +78,33 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			">\n",
+			"section",
+			"\"></",
+			"    <header></header>\n    <nav></nav>\n    <body>\n      \n    </body>\n    <footer></footer>"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
 		],
-		"reverse": false,
+		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
-		"wrap": true
+		"wrap": false
 	},
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/page.tpl.php",
+					"file": "templates/page.tpl.php",
 					"settings":
 					{
 						"buffer_size": 6898,
@@ -134,8 +114,8 @@
 						"selection":
 						[
 							[
-								257,
-								257
+								3441,
+								3441
 							]
 						],
 						"settings":
@@ -145,118 +125,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/page.vars.php",
-					"settings":
-					{
-						"buffer_size": 2511,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/html.vars.php",
-					"settings":
-					{
-						"buffer_size": 2069,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2069,
-								2069
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 275.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "templates/html.tpl.php",
-					"settings":
-					{
-						"buffer_size": 3456,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3206,
-								3206
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 733.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "maqueta/index.html",
-					"settings":
-					{
-						"buffer_size": 1179,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								842,
-								842
-							]
-						],
-						"settings":
-						{
-							"auto_name": "index.html",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1077.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -266,7 +135,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -324,6 +193,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 325.0,
+	"side_bar_width": 189.0,
 	"status_bar_visible": true
 }

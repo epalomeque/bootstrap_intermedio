@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "templates/page.tpl.php",
-			"settings":
-			{
-				"buffer_size": 6898,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -44,10 +36,13 @@
 	},
 	"file_history":
 	[
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap_intermedio/templates/page.tpl.php",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap_intermedio/template.php",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/bootstrap.api.php",
+		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/region.vars.php",
 		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/page.vars.php",
 		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/includes/common.inc",
 		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/template.php",
-		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/region.vars.php",
 		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap/templates/system/html.vars.php",
 		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap_intermedio/maqueta/css/estilos.css",
 		"/home/emmanuel/Documentos/01-En_proceso/tema_bootstrap/bootstrap_intermedio/maqueta/index.html",
@@ -99,37 +94,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "templates/page.tpl.php",
-					"settings":
-					{
-						"buffer_size": 6898,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3441,
-								3441
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1077.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

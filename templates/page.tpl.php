@@ -165,7 +165,10 @@
   </div>
 </div>
 
-<?php dpm ($page['footer'], '$page["footer"]'); ?>
+<?php 
+  dpm ($page, '$page'); 
+  dpm ($page['footer'], '$page["footer"]'); 
+?>
 <?php if (!empty($page['footer'])): ?>
   <footer class="footer <?php print $container_class; ?>">
     <?php print render($page['footer']); ?>
